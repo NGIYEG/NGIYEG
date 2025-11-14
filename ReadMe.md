@@ -1,5 +1,5 @@
 
-#💫 About Me:  
+💫 About Me:  
 Hi 👋, I'm George Ngiye
 
 A passionate full-stack developer from Kenya
